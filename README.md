@@ -210,3 +210,7 @@ Please don't touch the CHANGELOG in your pull requests, we'll add the appropriat
 at release time.
 
 [![Build Status](https://secure.travis-ci.org/Shopify/active_merchant.png)](http://travis-ci.org/Shopify/active_merchant)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/netconstructor/active_merchant/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
